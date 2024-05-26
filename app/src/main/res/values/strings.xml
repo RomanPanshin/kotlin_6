@@ -53,4 +53,12 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="title_activity_set_theme">setTheme</string>
+    <string name="hi_string">Hi</string>
+    <string name="this_app_will_help_you_solve_complex_equations_string">This app will help you solve complex equations</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Enter search query</string>
+    <string name="back">Back</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
 </resources>

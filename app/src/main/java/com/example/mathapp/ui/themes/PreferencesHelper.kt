@@ -1,4 +1,4 @@
-package com.example.mathapp.ui.theme
+package com.example.mathapp.ui.themes
 
 import android.content.Context
 

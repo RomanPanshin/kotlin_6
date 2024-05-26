@@ -1,4 +1,4 @@
-package com.example.mathapp.ui.themes
+package com.example.mathapp.ui.activities.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

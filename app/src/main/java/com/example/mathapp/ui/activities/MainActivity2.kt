@@ -1,4 +1,4 @@
-package com.example.mathapp.ui.theme
+package com.example.mathapp.ui.activities
 
 import android.app.Activity
 import android.os.Bundle

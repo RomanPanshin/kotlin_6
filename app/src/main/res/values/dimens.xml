@@ -1,3 +1,12 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="height_48">48dp</dimen>
+    <dimen name="height_96">96dp</dimen>
+    <dimen name="height_36">36dp</dimen>
+    <dimen name="image_width">318dp</dimen>
+    <dimen name="image_height">216dp</dimen>
+    <dimen name="icon_size_width">37dp</dimen>
+    <dimen name="icon_size_height">31dp</dimen>
+
 </resources>
