@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:background="@drawable/background">
 
-
     <TextView
         android:id="@+id/textView"
         android:textStyle="bold"
@@ -15,6 +14,7 @@
         android:layout_marginTop="48dp"
         android:text="@string/mathtab_string"
         android:textSize="40sp"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -26,6 +26,7 @@
         android:layout_marginTop="48dp"
         android:text="@string/mathtab_string"
         android:textSize="40sp"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -47,8 +48,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="96dp"
         android:text="@string/hi__string"
-
         android:textSize="40sp"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -62,6 +63,7 @@
         android:text="@string/this_app_will_help_you_solve_complex_equations__string"
         android:gravity="center"
         android:textSize="20sp"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -82,8 +84,5 @@
         android:layout_marginEnd="20dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
-
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

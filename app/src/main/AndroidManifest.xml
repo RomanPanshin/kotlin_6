@@ -7,17 +7,12 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ui.theme.setTheme"
-            android:exported="false"
-            android:label="@string/title_activity_set_theme"
-            android:theme="@style/AppTheme" />
-        <activity
             android:name=".ui.theme.MainActivity2"
             android:exported="false"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme" />
         <activity
-            android:name="exportkit.figma.activity_main"
+            android:name=".ui.activities.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:exported="true"
             android:label="@string/app_name">
