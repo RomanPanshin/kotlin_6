@@ -9,4 +9,11 @@
     <dimen name="icon_size_width">37dp</dimen>
     <dimen name="icon_size_height">31dp</dimen>
 
+        <dimen name="padding_small">8dp</dimen>
+        <dimen name="padding_medium">16dp</dimen>
+        <dimen name="padding_large">32dp</dimen>
+        <dimen name="text_size_input">35sp</dimen>
+        <dimen name="text_size_result">45sp</dimen>
+
+
 </resources>

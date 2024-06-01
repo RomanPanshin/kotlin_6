@@ -107,7 +107,7 @@ class MainActivity : ComponentActivity() {
             ) {
                 IconButton(
                     onClick = {
-                        val intent = Intent(this@MainActivity, MainActivity2::class.java)
+                        val intent = Intent(this@MainActivity, Calculator::class.java)
                         startActivity(intent)
                     }
                 ) {

@@ -15,7 +15,7 @@
             android:label="@string/title_activity_search"
             android:theme="@style/AppTheme" />
         <activity
-            android:name=".ui.activities.MainActivity2"
+            android:name=".ui.activities.Calculator"
             android:exported="false"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme" />
